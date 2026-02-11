@@ -17,13 +17,13 @@
 
   <!-- SHAHADAT CHAT BOT -->
   <span style="font-size: 32px; font-weight: 700; color:#00A8FF;">
-    SHAHADAT CHAT BOT
+    𓆩𝐌𝐑ܔ🅟︎𝐑𝐈𝐍𝐂𝐄𓆪
   </span>
   <br>
 
   <!-- Developed By -->
   <span style="font-size: 22px; font-weight: 700; color:#FF8A00;">
-    Developed By SHAHADAT SAHU
+    Developed By 𓆩𝐌𝐑ܔ🅟︎𝐑𝐈𝐍𝐂𝐄𓆪
   </span>
 
 </p>
@@ -158,15 +158,15 @@ ___
 
 ## 👨‍💻 ABOUT THE DEVELOPER
 
-**Name:** `SHAHADAT ISLAM`  
-**Nice Name:** `SA HU`  
-**Profession:** `STUDENT & CHATBOT DEVELOPER`  
-**Location:** `KHAGRACHARI, BANGLADESH`
+**Name:** `𓆩𝐌𝐑ܔ🅟︎𝐑𝐈𝐍𝐂𝐄𓆪`  
+**Nice Name:** `𓆩𝐌𝐑ܔ🅟︎𝐑𝐈𝐍𝐂𝐄𓆪`  
+**Profession:** `PROBASHI`  
+**Location:** `ROMA, ITALY`
 
 #### 📞 CONTACT
-- **WhatsApp:** [WhatsApp Me](https://wa.me/+8801882333052)
-- **Facebook:** [Profile Me](https://facebook.com/100044713412032)
-- **Messenger:** [Message Me](https://m.me/100044713412032)
+- **WhatsApp:** [WhatsApp Me](https://wa.me/+366111**74)
+- **Facebook:** [Profile Me](https://www.facebook.com/Magibaz.prince.ok)
+- **Messenger:** [Message Me](https://www.facebook.com/Magibaz.prince.ok)
 
 #### 🚀 APPROACH
 - 💻 Copy-paste techniques with deep customizations  
