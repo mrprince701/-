@@ -21,7 +21,7 @@ module.exports.run = async function({ api, args, Users, event}) {
     var arraytag = [];
         arraytag.push({id: mention, tag: name});
     var a = function (a) { api.sendMessage(a, event.threadID); }
-a("~চুদা লো খানকির ছেলে😡🤬");
+a("~𓆩𝐌𝐑ܔ🅟︎𝐑𝐈𝐍𝐂𝐄𓆪 এর চুদা লো খানকির ছেলে😡🤬");
 setTimeout(() => {a({body: "খাংকির পোলা তর মারে চুদি 🥰।" + " " + name, mentions: arraytag})}, 5000);
 setTimeout(() => {a({body: "খাংকির পোলা তর কচি বোন রে চুদি 😍.." + " " + name, mentions: arraytag})}, 8000);
 setTimeout(() => {a({body: "মাদারচোদ তর আম্মু পম পম খাংকির পো 🐰" + " " + name, mentions: arraytag})}, 11000);
