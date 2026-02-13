@@ -5,7 +5,7 @@ module.exports.config = {
     credits: "SHAHADAT SAHU",
     description: "গালি দিবি চুদা ল",
     commandCategory: "Admin",
-    usages: "murgi +@mention",
+    usages: "murgi +@mention | off",
     cooldowns: 0,
     usePrefix: true,
     dependencies: {
